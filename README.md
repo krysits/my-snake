@@ -1,9 +1,9 @@
 # my-snake
 ### My variation of `Snake` game
 
-Demo: [htps://krysits.github.io/snake/index.html](https://0k.lv/snake)
+Demo: [https://krysits.github.io/snake/index.html](https://krysits.github.io/snake/index.html)
 
 ---
 Licensed by `MIT License`
 
-&copy; 2021 by [@krysits.COM](https://0k.lv/krysits)
+&copy; 2021 by [@krysits.COM](https://krysits.com)
